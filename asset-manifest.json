@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/suraj-gawali-portfolio/static/css/main.41baa116.css",
+    "main.js": "/suraj-gawali-portfolio/static/js/main.1994f3eb.js",
+    "index.html": "/suraj-gawali-portfolio/index.html",
+    "main.41baa116.css.map": "/suraj-gawali-portfolio/static/css/main.41baa116.css.map",
+    "main.1994f3eb.js.map": "/suraj-gawali-portfolio/static/js/main.1994f3eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41baa116.css",
+    "static/js/main.1994f3eb.js"
+  ]
+}
